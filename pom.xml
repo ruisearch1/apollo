@@ -80,7 +80,7 @@
 		<nacos-discovery-api.version>1.4.0</nacos-discovery-api.version>
 		<snakeyaml.version>2.3</snakeyaml.version>
 		<!-- database driver -->
-		<mysql-connector-j.version>8.2.0</mysql-connector-j.version>
+		<mysql-connector-j.version>9.2.0</mysql-connector-j.version>
 		<postgre.version>42.7.2</postgre.version>
 		<!-- Plugins Version sort by alphabet -->
 		<maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
