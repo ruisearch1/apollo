@@ -76,7 +76,7 @@
 		<javax.mail.version>1.6.2</javax.mail.version>
 		<jaxb.version>2.3.1</jaxb.version>
 		<junit.version>5.9.2</junit.version>
-		<h2database.version>2.2.220</h2database.version>
+		<h2database.version>2.3.232</h2database.version>
 		<nacos-discovery-api.version>3.0.0</nacos-discovery-api.version>
 		<snakeyaml.version>2.3</snakeyaml.version>
 		<!-- database driver -->
